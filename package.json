@@ -1,0 +1,14 @@
+{
+  "name": "a01-webserver",
+  "version": "1.0.0",
+  "description": "a webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "author": "hhamrick",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
